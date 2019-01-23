@@ -2,7 +2,7 @@
 Project developed using Node.js Express Framework to interfaces with the private blockchain.
 
 REST API has two endpoints
-1. GET Block at http://localhost:8000/block
+1. GET Block at http://localhost:8000/block/:index
 2. POST Block at http://localhost:8000/block
 
 ## Setup 
